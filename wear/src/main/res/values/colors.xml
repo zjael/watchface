@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Main Style Colors -->
+    <color name="color_primary">#54CFA4</color>
+    <color name="color_secondary">#CCCCCC</color>
+    <color name="color_subtle">#8b8bb8</color>
+
+    <!-- Button Style Colors -->
+    <color name="color_primary_button">#000000</color>
+
+    <!-- Theme colors -->
+    <color name="test_primary_color">#2CDCAA</color>
+    <color name="test_secondary_color">#AA99FF</color>
+    <color name="test_tertiary_color">#8888bb</color>
+</resources>

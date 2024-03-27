@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Juddy</string>
+    <string name="title_activity_watch_face_config">Configurator</string>
+
+    <!-- Name of watchface style category for selecting the color theme [CHAR LIMIT=20] -->
+    <string name="color_style_setting">Color</string>
+    <string name="ambient_style_setting">Ambient Style</string>
+    <string name="seconds_style_setting">Seconds Indicator</string>
+
+    <!-- Subtitle for the menu option to select the watch face color theme -->
+    <string name="color_style_setting_description">Color scheme</string>
+    <string name="ambient_style_setting_description">Ambient mode style</string>
+    <string name="seconds_style_setting_description">Seconds indicator style</string>
+
+    <!-- Fill options -->
+    <string name="outline_ambient_style_name">Outline</string>
+    <string name="bold_outline_ambient_style_name">Bold</string>
+    <string name="filled_ambient_style_name">Filled</string>
+
+    <!-- Theme -->
+    <string name="test_style_name">Test</string>
+
+    <!-- Settings -->
+    <string name="left_complication_name">Left</string>
+    <string name="right_complication_name">Right</string>
+    <string name="top_complication_name">Top</string>
+    <string name="bottom_complication_name">Bottom</string>
+</resources>
